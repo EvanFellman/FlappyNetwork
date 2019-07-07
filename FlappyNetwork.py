@@ -1,4 +1,3 @@
-# gotta work on my commenting skills so Im going to upgrade to a new level, half-assed comments for some of the code
 import time
 import random
 import math
